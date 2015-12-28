@@ -1,13 +1,13 @@
-.body {
+body {
     padding-left: 60pt;
     padding-top: 70pt;
 }
 
-.h1 {
+h1 {
     font-family: helvetica;
 }
 
-.p {
+p {
     font-family: helvetica;
     padding-left: 10pt;
 }
