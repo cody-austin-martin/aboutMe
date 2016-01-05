@@ -1,6 +1,7 @@
 body {
     padding-left: 60pt;
     padding-top: 70pt;
+    padding-bottom: 50pt;
 }
 
 h1 {
@@ -10,4 +11,16 @@ h1 {
 p {
     font-family: helvetica;
     padding-left: 10pt;
+}
+
+.job{
+    font-weight: bold;
+    padding-left: 7pt;
+}
+
+.job-title{
+    font-style: italic;
+    font-size: 11pt;
+    padding-bottom: 10pt;
+    
 }
